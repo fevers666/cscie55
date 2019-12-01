@@ -179,31 +179,6 @@
   "calories" : 550,
   "type" : "MEAT"  
 }, {
-  "name" : "sloppy joes",
-  "vegetarian" : true,
-  "calories" : 600,
-  "type" : "MEAT"  
-}, {
-  "name" : "quesadillas",
-  "vegetarian" : true,
-  "calories" : 1500,
-  "type" : "OTHER"  
-}, {
-  "name" : "chicken and rice",
-  "vegetarian" : false,
-  "calories" : 1550,
-  "type" : "MEAT"  
-}, {
-  "name" : "bbq chicken",
-  "vegetarian" : false,
-  "calories" : 2630,
-  "type" : "MEAT"  
-}, {
-  "name" : "pot roast",
-  "vegetarian" : false,
-  "calories" : 700,
-  "type" : "MEAT"  
-}, {
   "name" : "ribs",
   "vegetarian" : false,
   "calories" : 1660,
@@ -539,19 +514,9 @@
   "calories" : 2600,
   "type" : "MEAT"  
 }, {
-  "name" : "blood sausage",
-  "vegetarian" : false,
-  "calories" : 3500,
-  "type" : "MEAT"  
-}, {
   "name" : "roasted bone marrow",
   "vegetarian" : false,
   "calories" : 500,
-  "type" : "MEAT"  
-}, {
-  "name" : "buffalo wings",
-  "vegetarian" : false,
-  "calories" : 3540,
   "type" : "MEAT"  
 }, {
   "name" : "nachos",
