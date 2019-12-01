@@ -89,11 +89,6 @@
   "calories" : 279,
   "type" : "MEAT"  
 }, {
-  "name" : "New Jersey-Style Baked Mannicott",
-  "vegetarian" : true,
-  "calories" : 1690,
-  "type" : "OTHER"  
-}, {
   "name" : "Baked Shrimp with Tomatoes and Feta",
   "vegetarian" : false,
   "calories" : 625,
@@ -103,11 +98,6 @@
   "vegetarian" : false,
   "calories" : 525,
   "type" : "MEAT"  
-}, {
-  "name" : "Whole Wheat Pasta with Eggplant",
-  "vegetarian" : true,
-  "calories" : 1250,
-  "type" : "OTHER"  
 }, {
   "name" : "Tuna Salad",
   "vegetarian" : false,
