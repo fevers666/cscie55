@@ -169,16 +169,6 @@
   "calories" : 2530,
   "type" : "MEAT"  
 }, {
-  "name" : "twice baked potatoes",
-  "vegetarian" : true,
-  "calories" : 1510,
-  "type" : "OTHER"  
-}, {
-  "name" : "chicken pot pie",
-  "vegetarian" : false,
-  "calories" : 3700,
-  "type" : "MEAT"  
-}, {
   "name" : "corn dogs",
   "vegetarian" : false,
   "calories" : 1350,
