@@ -14,24 +14,9 @@
   "calories" : 400,
   "type" : "MEAT"  
 }, {
-  "name" : "french fries",
-  "vegetarian" : true,
-  "calories" : 530,
-  "type" : "OTHER"  
-}, {
-  "name" : "rice",
-  "vegetarian" : true,
-  "calories" : 350,
-  "type" : "OTHER"  
-}, {
   "name" : "season fruit",
   "vegetarian" : true,
   "calories" : 120,
-  "type" : "OTHER"  
-}, {
-  "name" : "pizza",
-  "vegetarian" : true,
-  "calories" : 550,
   "type" : "OTHER"  
 }, {
   "name" : "prawns",
@@ -53,31 +38,6 @@
   "vegetarian" : false,
   "calories" : 700,
   "type" : "MEAT"  
-}, {
-  "name" : "chicken sirloin",
-  "vegetarian" : false,
-  "calories" : 400,
-  "type" : "MEAT"  
-}, {
-  "name" : "french fries sirloin",
-  "vegetarian" : true,
-  "calories" : 530,
-  "type" : "OTHER"  
-}, {
-  "name" : "rice sirloin",
-  "vegetarian" : true,
-  "calories" : 350,
-  "type" : "OTHER"  
-}, {
-  "name" : "season fruit sirloin",
-  "vegetarian" : true,
-  "calories" : 120,
-  "type" : "OTHER"  
-}, {
-  "name" : "pizza sirloin",
-  "vegetarian" : true,
-  "calories" : 550,
-  "type" : "OTHER"  
 }, {
   "name" : "prawns sirloin",
   "vegetarian" : false,
