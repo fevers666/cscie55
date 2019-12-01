@@ -4,11 +4,6 @@
   "calories" : 1300,
   "type" : "MEAT"  
 }, {
-  "name" : "prawns",
-  "vegetarian" : false,
-  "calories" : 1400,
-  "type" : "FISH"  
-}, {
   "name" : "salmon",
   "vegetarian" : false,
   "calories" : 1450,
@@ -22,11 +17,6 @@
   "name" : "Damariscotta River Oysters",
   "vegetarian" : false,
   "calories" : 185,
-  "type" : "FISH"  
-}, {
-  "name" : "Mookie blue oysters",
-  "vegetarian" : false,
-  "calories" : 175,
   "type" : "FISH"  
 }, {
   "name" : "Poutine",
