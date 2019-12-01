@@ -1,78 +1,8 @@
 [ {
-  "name" : "pork",
-  "vegetarian" : false,
-  "calories" : 800,
-  "type" : "MEAT"  
-}, {
-  "name" : "beef",
-  "vegetarian" : false,
-  "calories" : 700,
-  "type" : "MEAT"  
-}, {
-  "name" : "chicken",
-  "vegetarian" : false,
-  "calories" : 400,
-  "type" : "MEAT"  
-}, {
-  "name" : "season fruit",
-  "vegetarian" : true,
-  "calories" : 120,
-  "type" : "OTHER"  
-}, {
-  "name" : "prawns",
-  "vegetarian" : false,
-  "calories" : 400,
-  "type" : "FISH"  
-}, {
-  "name" : "salmon",
-  "vegetarian" : false,
-  "calories" : 450,
-  "type" : "FISH"  
-}, {
-  "name" : "beef sirloin",
-  "vegetarian" : false,
-  "calories" : 700,
-  "type" : "MEAT"  
-}, {
   "name" : "Corned Beef and Cabbage",
   "vegetarian" : false,
   "calories" : 1300,
   "type" : "MEAT"  
-}, {
-  "name" : "pork",
-  "vegetarian" : false,
-  "calories" : 800,
-  "type" : "MEAT"  
-}, {
-  "name" : "beef",
-  "vegetarian" : false,
-  "calories" : 700,
-  "type" : "MEAT"  
-}, {
-  "name" : "chicken",
-  "vegetarian" : false,
-  "calories" : 1400,
-  "type" : "MEAT"  
-}, {
-  "name" : "french fries",
-  "vegetarian" : true,
-  "calories" : 530,
-  "type" : "OTHER"  
-}, {
-  "name" : "rice",
-  "vegetarian" : true,
-  "calories" : 1250,
-  "type" : "OTHER"  
-}, {
-  "name" : "seasonal fruit",
-  "vegetarian" : true,
-  "calories" : 320,
-  "type" : "OTHER"  
-}, {
-  "name" : "pizza",
-  "vegetarian" : true,
-  "calories" : 550,
-  "type" : "OTHER"  
 }, {
   "name" : "prawns",
   "vegetarian" : false,
@@ -354,16 +284,6 @@
   "calories" : 1750,
   "type" : "MEAT"  
 }, {
-  "name" : "breaded chicken",
-  "vegetarian" : false,
-  "calories" : 1520,
-  "type" : "MEAT"  
-}, {
-  "name" : "chicken nuggets",
-  "vegetarian" : false,
-  "calories" : 2350,
-  "type" : "MEAT"  
-}, {
   "name" : "dijon chicken",
   "vegetarian" : false,
   "calories" : 860,
@@ -438,11 +358,6 @@
   "vegetarian" : true,
   "calories" : 550,
   "type" : "OTHER"  
-}, {
-  "name" : "beef lasagna",
-  "vegetarian" : false,
-  "calories" : 1600,
-  "type" : "MEAT"  
 }, {
   "name" : "baked ziti",
   "vegetarian" : true,
@@ -644,7 +559,7 @@
   "calories" : 240,
   "type" : "OTHER"  
 }, {
-  "name" : "chicago deep dish",
+  "name" : "chicago deep dish pizza",
   "vegetarian" : true,
   "calories" : 790,
   "type" : "OTHER"  
@@ -663,11 +578,6 @@
   "vegetarian" : true,
   "calories" : 800,
   "type" : "OTHER"  
-}, {
-  "name" : "chicken n waffle",
-  "vegetarian" : false,
-  "calories" : 2540,
-  "type" : "MEAT"  
 }, {
   "name" : "lamb chops",
   "vegetarian" : false,
