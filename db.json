@@ -304,16 +304,6 @@
   "calories" : 660,
   "type" : "MEAT"  
 }, {
-  "name" : "fish sticks",
-  "vegetarian" : false,
-  "calories" : 490,
-  "type" : "FISH"  
-}, {
-  "name" : "fish 'n' chips",
-  "vegetarian" : false,
-  "calories" : 460,
-  "type" : "FISH"  
-}, {
   "name" : "crab cakes",
   "vegetarian" : false,
   "calories" : 700,
@@ -324,19 +314,9 @@
   "calories" : 2530,
   "type" : "MEAT"  
 }, {
-  "name" : "chimichangas",
-  "vegetarian" : false,
-  "calories" : 2420,
-  "type" : "MEAT"  
-}, {
   "name" : "meatloaf",
   "vegetarian" : false,
   "calories" : 1360,
-  "type" : "MEAT"  
-}, {
-  "name" : "ham",
-  "vegetarian" : false,
-  "calories" : 1050,
   "type" : "MEAT"  
 }, {
   "name" : "beef tenderloin",
@@ -374,11 +354,6 @@
   "calories" : 590,
   "type" : "MEAT"  
 }, {
-  "name" : "stuffed pasta shells",
-  "vegetarian" : false,
-  "calories" : 1700,
-  "type" : "MEAT"  
-}, {
   "name" : "manicotti",
   "vegetarian" : true,
   "calories" : 2550,
@@ -387,16 +362,6 @@
   "name" : "pesto pasta",
   "vegetarian" : true,
   "calories" : 890,
-  "type" : "OTHER"  
-}, {
-  "name" : "eggplant parmesan",
-  "vegetarian" : true,
-  "calories" : 1270,
-  "type" : "MEAT"  
-}, {
-  "name" : "tortellini",
-  "vegetarian" : true,
-  "calories" : 990,
   "type" : "OTHER"  
 }, {
   "name" : "spaghetti and meatballs",
@@ -424,11 +389,6 @@
   "calories" : 340,
   "type" : "MEAT"  
 }, {
-  "name" : "chicken empanadas",
-  "vegetarian" : false,
-  "calories" : 1340,
-  "type" : "MEAT"  
-}, {
   "name" : "sushi",
   "vegetarian" : false,
   "calories" : 500,
@@ -437,11 +397,6 @@
   "name" : "margherita pizza",
   "vegetarian" : true,
   "calories" : 750,
-  "type" : "OTHER"  
-}, {
-  "name" : "pepperoni pizza",
-  "vegetarian" : false,
-  "calories" : 890,
   "type" : "OTHER"  
 }, {
   "name" : "hawaian pizza",
@@ -477,11 +432,6 @@
   "name" : "beef burrito",
   "vegetarian" : false,
   "calories" : 1740,
-  "type" : "MEAT"  
-}, {
-  "name" : "chicken burrito",
-  "vegetarian" : false,
-  "calories" : 1640,
   "type" : "MEAT"  
 }, {
   "name" : "bbq ribs",
